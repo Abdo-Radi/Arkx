@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Database_Connection_and_Basic_Operations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.2.0"
+  }
+}
